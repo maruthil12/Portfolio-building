@@ -1,5 +1,5 @@
 ## Description
-This repository was created as part of Activity 2: Git & GitHub Setup and First Repository.
+This repository was created as part of a course -Portfolio Building.
 The purpose of this activity is to learn the basics of Git and GitHub, including repository creation, version control, committing changes, and pushing files to a remote repository.
 
 ## Objectives
